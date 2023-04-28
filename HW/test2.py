@@ -7,7 +7,7 @@
 # Enter the login and password fields and click the login button. Check that login was successful
 
 
-# Test: if 2 fields (login and password) are emptygi
+# Test: if 2 fields (login and password) are empty
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
