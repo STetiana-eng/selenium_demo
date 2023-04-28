@@ -7,7 +7,7 @@
 # Enter the login and password fields and click the login button. Check that login was successful
 
 
-#  Test: if login and password are fielded and  we need change credentional
+#  Test: if login and password are fielded and  we need change credentional.
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
