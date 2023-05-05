@@ -63,6 +63,7 @@ class Circle(Figure):
 
 
 if __name__ == '__main__':
+
       rectangle = Rectangle(a=2, b=2, c=3, d=3, p=None, r=None)
       rectangle.perimeter_metchod()
 
